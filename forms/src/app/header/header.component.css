@@ -1,0 +1,12 @@
+header {
+  background: orangered;
+  margin: 20px;
+  height: 50px;
+}
+
+h2 {
+  color: white;
+  margin: 5px;
+  padding: 5px;
+  margin-left: 600px;
+}
